@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
+  <diagram name="Page-1" id="HTZUk3EbjC1MUIwNYU3U">
+    <mxGraphModel dx="1373" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JLddquqepQ3t4C1imX2O-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-6" target="JLddquqepQ3t4C1imX2O-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-6" target="JLddquqepQ3t4C1imX2O-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-6" target="JLddquqepQ3t4C1imX2O-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-6" value="Hardware" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-7" value="Power Supply" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-10" value="&lt;div&gt;GPU (3070ti temp)&lt;/div&gt;&lt;div&gt;Order 3050TI minimum&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="400" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-13" value="Complete guts transfer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-14" target="JLddquqepQ3t4C1imX2O-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-14" value="Software" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-17" target="JLddquqepQ3t4C1imX2O-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-17" value="Install linux mint to host server " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-18" target="JLddquqepQ3t4C1imX2O-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-18" value="Install local LLM (gpt4all @ github?)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-20" target="JLddquqepQ3t4C1imX2O-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-20" target="JLddquqepQ3t4C1imX2O-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-20" value="Train data on purely Bio 1 learning material" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-23" target="JLddquqepQ3t4C1imX2O-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-23" value="Create website to host sandboxed ai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-25" value="Do not allow access to internet (preload sources like khan academy)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="420" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLddquqepQ3t4C1imX2O-27" target="JLddquqepQ3t4C1imX2O-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-27" value="Stress test system under load" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLddquqepQ3t4C1imX2O-29" value="Continue tests after installation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
